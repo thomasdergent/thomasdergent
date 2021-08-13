@@ -1,6 +1,7 @@
 ### Hello, I"m Thomas Dergent! 👋
 
-[![Thomas Dergent GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdergent)](https://github.com/thomasdergent/github-readme-stats)
+![Thomas Dergent GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdergent&show_icons=true&theme=dark)
+
 
 
 <!--
