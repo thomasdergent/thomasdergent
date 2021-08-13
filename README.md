@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I"m Thomas Dergent! 👋
+
+[![Thomas Dergent GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdergent)](https://github.com/thomasdergent/github-readme-stats)
+
 
 <!--
 **thomasdergent/thomasdergent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
